@@ -1,9 +1,14 @@
 # CODTECH-Task1
 Name:KOTHA SATHVIKA
+
 Company:CODETECH IT SOLUTIONS
+
 ID:CT08PD960
+
 Domain:Python Programming
+
 Duration:May to june 2024
+
 Mentor:SRAVANI GOUNI
 
 Overview of the project
